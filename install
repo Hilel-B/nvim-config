@@ -1,0 +1,2 @@
+mv ~/.config/nvim ~/.config/nvim_backup
+git clone https://github.com/Hilel-B/nvim-config ~/.config/nvim
